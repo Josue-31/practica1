@@ -1,0 +1,11 @@
+com\emergentes\RegistroUsuario.class
+com\emergentes\resgitroLibro.class
+com\emergentes\registroUsuariosServlet.class
+com\emergentes\inscripcionServlet.class
+com\emergentes\encuestaServlet.class
+com\emergentes\contactenosServlet.class
+com\emergentes\Seminario.class
+com\emergentes\Contactenos.class
+com\emergentes\Encuesta.class
+com\emergentes\registroLibro.class
+com\emergentes\registroLibrosServlet.class
